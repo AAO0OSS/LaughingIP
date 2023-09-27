@@ -8,8 +8,6 @@ You need Python and a linux environment 😏
 
 # Commands for Skids
 
-(FOR LINUX)
-
 git clone https://github.com/AAO0OSS/LaughingIP.git
 
 cd LaughingIP
